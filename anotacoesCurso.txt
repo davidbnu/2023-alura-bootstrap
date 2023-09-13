@@ -44,6 +44,7 @@ Criando o projeto Meteora
         Produtos bombando são vários cards com imagem maior, título e um texto.
             Buscar card na documentação
                 Título da sessão Produtos que estão Bombando! com a classe text-center
+    Breakpoints e tamanhos dos elementos sm, md, lg, xl e xxl
     
                  
 

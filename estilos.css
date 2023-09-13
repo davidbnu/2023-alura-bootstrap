@@ -1,0 +1,21 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.color-facilidades {
+    color: #DAFF01;
+}
+
+.color-bg-lilas {
+    background-color: #9353FF;
+    border: none;
+}
+
+.color-bg-lilas:hover {
+    color: #9353FF;
+    background-color: white;
+}
